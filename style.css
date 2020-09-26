@@ -1,16 +1,13 @@
-#a{
-    background-color: blue;
-}
-
-#b{
-    background-color: red;
-}
-
-#banner{
-    background-image: url(img/background.jpg);
-}
 
 i{
     height: 25px;
     width: 25px;
 }
+
+body{
+    background-image: url(img/background.jpg);
+}
+
+.navbar-link{
+    word-spacing: 10px;
+   }
