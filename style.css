@@ -1,13 +1,23 @@
+#b {
+    background-color: crimson;
+}
+
+#ipad {
+    width: 300pt;
+    height: 450pt;
+}
 
 i{
-    height: 25px;
-    width: 25px;
+    float: left;
+    width: 40px;
+    height: 40px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-body{
+#bg{
     background-image: url(img/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
-
-.navbar-link{
-    word-spacing: 10px;
-   }
